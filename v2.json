@@ -6,5 +6,9 @@
   "0x2DFb2C5C013826a0728440D8036305b254Ad9cCE": {
     "name":"DCAKeep3rJob",
     "repository":"https://github.com/Mean-Finance/keep3r-cli-jobs"
+  },
+  "0x54A8265ADC50fD66FD0F961cfCc8B62DE0f2B57f": {
+    "name":"Kasparov",
+    "repository":"https://github.com/wei3erHase/keep3r-cli-job-kasparov"
   }
 }
