@@ -11,8 +11,12 @@
     "name":"DCAKeep3rJob",
     "repository":"https://github.com/Mean-Finance/keep3r-cli-jobs"
   },
-  "0x54A8265ADC50fD66FD0F961cfCc8B62DE0f2B57f": {
-    "name":"Kasparov",
-    "repository":"https://github.com/wei3erHase/keep3r-cli-job-kasparov"
+  "0xE6DD4B94B0143142E6d7ef3110029c1dcE8215cb": {
+    "name":"YearnHarvestV2",
+    "repository":"https://github.com/yearn/keep3r-cli-jobs"
+  },
+  "0xcD7f72F12c4b87dAbd31d3aa478A1381150c32b3": {
+    "name":"YearnTendV2",
+    "repository":"https://github.com/yearn/keep3r-cli-jobs"
   }
 }
