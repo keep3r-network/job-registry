@@ -1,3 +1,6 @@
+### ⚠️ Warning ⚠️
+This repository has been deprecated in favor of the [Keep3r Web v2 Registry](https://github.com/keep3r-network/web-v2/blob/main/utils/registry.tsx)
+
 # Keep3r Job Registry
 
 Job information will be fetched from [the web](https://thekeep3r.network) reading the `v2.json` file on this repository. To add a job to the Registry, a Pull Request must be created with the following requirements:
